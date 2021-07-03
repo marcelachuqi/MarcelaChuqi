@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I'm from the Caribbean , arabic blood and worldwide mindset. Having fun while programming.
 
 Companies I've work for:
+![Sin título](https://user-images.githubusercontent.com/81633985/124367592-dee95b00-dc58-11eb-9ed2-5bf92bafa868.jpg)
 
-HUAWEI
-Oh! MY WORLD
+
