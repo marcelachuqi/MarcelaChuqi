@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**marcelachuqi/MarcelaChuqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on my new personal project. Join me!
 - 🌱 I’m currently learning ...non stop. 
 - 👯 I’m looking to collaborate on brand new projects.
