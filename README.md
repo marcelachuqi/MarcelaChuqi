@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my new personal project. Join me!
-- 🌱 I’m currently learning ...non stop. (Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts)
+- 🌱 I’m currently learning ...non stop. (Finished: Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts)
 - 👯 I’m looking to collaborate on brand new projects.
 - 💬 Ask me about entrepreneurship, web development, React, JavaScript, UX.
 - 📫 How to reach me: info@marcelayamur.com & https://www.linkedin.com/in/marcelachuqi/
