@@ -14,4 +14,3 @@ Companies I've work for:
 
 HUAWEI
 Oh! MY WORLD
-
