@@ -9,7 +9,7 @@
      ##### React, JS, Node, Saas, UX.
      
      
-- 📫 How to reach me: info@marcelayamur.com & https://www.linkedin.com/in/marcelachuqi/
+- 📫 How to reach me: info@marcelayamur.com & >> https://www.linkedin.com/in/marcelachuqi/
 - ⚡ Fun fact: I'm from the Caribbean , arabic blood and worldwide mindset. I created a gift box company while having fun programming.
 
 Companies I've work for:
