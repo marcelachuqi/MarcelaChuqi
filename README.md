@@ -8,11 +8,11 @@
 
 👯 Please, feel free to contact me to collaborate on a brand new projects if needed!
 
-⚡ Fun fact: I'm from the Caribbean , arabic blood and worldwide mindset. I created a gift box company while having fun programming.
+⚡ Fun fact: I'm from the Caribbean , arabic blood, living in Spain and worldwide mindset. I created a gift box company while having fun programming.
 
 💬 Ask me about HR, entrepreneurship, web development:
 
- ##### HTML5 ~CSS ~JS ~React ~Gulp ~Git ~Node ~Saas
+ ##### HTML5 / CSS \ JS / React \ Gulp / Git \ Node / Saas
 
 *** 
      
