@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on my new personal project. Join me!
-- 🌱 I’m currently learning ...non stop. (Finished: Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts)
-- 👯 I’m looking to collaborate on brand new projects.
+- 🔭 Looking forward new adventures, proyects, release.
+- 🌱 Never stop learning, I've just finished: Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts.
+- 👯 Please, feel free to contact me to collaborate on a brand new projects if needed!
 - 💬 Ask me about HR, entrepreneurship, web development:
-     ##### React, JS, Node, Saas, UX.
+     ##### HTML5, CSS, JS, React, Gulp, Git, Node, Saas.
      
      
 - 📫 How to reach me: info@marcelayamur.com & >> https://www.linkedin.com/in/marcelachuqi/
