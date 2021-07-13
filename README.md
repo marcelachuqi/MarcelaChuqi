@@ -1,4 +1,5 @@
-### Hi 👋 i'm Marcela Chuqi (HR by title, an entrepreneur by mind & creative by heart)
+### Welcome 👋 i'm Marcela Chuqi 
+#### HR by 🎓 | Entrepreneur by 🧠 | Creative by 🫀
 
 🔭 Looking forward new adventures, proyects, release.
 
