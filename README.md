@@ -1,4 +1,4 @@
-### Hi 👋 i'm Marcela Chuqi - Life CMO ("M" for multitasking) 
+### Hi 👋 i'm Marcela Chuqi - CMO ("M" for multitasking) 
 
 
 
