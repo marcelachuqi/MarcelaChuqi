@@ -9,7 +9,7 @@
 
 ⚡ Fun fact: I'm from the Caribbean , arabic blood, worldwide mindset living in Spain. I created a gift box company while having fun programming.
 
-💬 Ask me about HR, entrepreneurship, web development:
+💬 Ask me about:
 
  ##### HTML5 / CSS \ JS / React \ Gulp / Git \ Node / Saas \ SCRUM
 
