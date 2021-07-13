@@ -1,6 +1,4 @@
-### Hi 👋 i'm Marcela Chuqi - CMO ("M" for multitasking) 
-
-
+### Hi 👋 i'm Marcela Chuqi (HR by title, an entrepreneur by mind & creative by heart)
 
 🔭 Looking forward new adventures, proyects, release.
 
