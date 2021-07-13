@@ -3,7 +3,7 @@
 
 🔭 Looking forward new adventures, proyects, release.
 
-🌱 Never stop learning, I've just finished: Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts.
+🌱 Never stop learning, I've just finished: *Front-end Developer & back-end @ Adalab ~ UI/UX @ California Institute of Arts*.
 
 👯 Please, feel free to contact me to collaborate on a brand new projects if needed!
 
